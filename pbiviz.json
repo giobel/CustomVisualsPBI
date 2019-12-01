@@ -1,0 +1,6 @@
+{"visual":{"name":"mlc","displayName":"mlc","guid":"mlcC5145AC231E64425B741577D7708A208","visualClassName":"Visual","version":"1.0.0","description":"","supportUrl":"","gitHubUrl":""},"apiVersion":"2.6.0","author":{"name":"","email":""},"assets":{"icon":"assets/icon.png"},
+"externalJS":[
+    "node_modules/d3/dist/dr.min.js"
+],
+"style":"style/visual.less","capabilities":"capabilities.json",
+"dependencies":null,"stringResources":[]}
