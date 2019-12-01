@@ -26,5 +26,6 @@ Reference:
 - Proving Ground [Custom Power BI Visual - Space Plan Viewer](https://www.youtube.com/watch?v=izCFlEjT5wo)
 - Power BI BIM [Vcad Architecture](https://www.youtube.com/watch?v=1TO5lsjSdVw)
 - BIM Services [Full Ifc data navigation into Power BI](https://www.youtube.com/watch?v=0m7F8I_NK2k)
+- BIM Services [PowerBI and Bim - How we built a report with PowerBi and Vcad viewer](https://youtu.be/ydoLNe47SXE)
 
 
