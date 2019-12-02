@@ -1,3 +1,5 @@
+//credits https://aerotwist.com/tutorials/getting-started-with-three-js/
+
 "use strict";
 
 import "core-js/stable";
